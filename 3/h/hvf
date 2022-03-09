@@ -1,0 +1,1 @@
+{"name":"hvf","vers":"0.1.0","deps":[{"name":"logger","req":">=0.1.0, <0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":null,"package":null}],"cksum":"085918f02bbcf38d3b70d452ab6df593b8f7248807fe2c8182df792e1baf6378","features":{},"yanked":false,"links":null}
